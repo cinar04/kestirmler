@@ -1,1 +1,10 @@
-naber
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Veri Kaynağı</title>
+<item>
+<title>METIN</title>
+<description>Buraya_istediğin_yazı_gelecek</description>
+</item>
+</channel>
+</rss>
